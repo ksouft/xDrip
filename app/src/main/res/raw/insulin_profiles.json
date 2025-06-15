@@ -81,6 +81,54 @@
       }
     },
     {
+      "name": "Lyumjev",
+      "displayName": "Lyumjev (ultra-fast acting)",
+      "concentration": "U100",
+      "PPN": [
+        "Lyumjev-U100"
+      ],
+      "Curve": {
+        "type": "linear trapezoid",
+        "data": {
+          "onset": "2",
+          "peak": "55",
+          "duration": "180"
+        }
+      }
+    },
+    {
+      "name": "Ljumjev",
+      "displayName": "Ljumjev (ultra-fast acting)",
+      "concentration": "U100",
+      "PPN": [
+        "Ljumjev-U100"
+      ],
+      "Curve": {
+        "type": "linear trapezoid",
+        "data": {
+          "onset": "2",
+          "peak": "55",
+          "duration": "180"
+        }
+      }
+    },
+    {
+      "name": "Lyumjev_long",
+      "displayName": "Lyumjev [long](ultra-fast acting)",
+      "concentration": "U100",
+      "PPN": [
+        "Lyumjev-U100L"
+      ],
+      "Curve": {
+        "type": "linear trapezoid",
+        "data": {
+          "onset": "2",
+          "peak": "50-150",
+          "duration": "300"
+        }
+      }
+    },
+    {
       "name": "Lispro",
       "displayName": "Lispro (rapid acting)",
       "concentration": "U100",
